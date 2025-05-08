@@ -45,7 +45,7 @@ def toTxt(output: str, dictionary: dict[str, list[set]]):
             file.write('\n\n')
 
 
-dictionary = fromTxt('input')
-dictionary2 = fromTxt('input2')
+dictionary = fromTxt('input.txt')
+dictionary2 = fromTxt('input2.txt')
 dic = {**dictionary, **dictionary2}
-toTxt('output', dic)
+toTxt('output.txt', dic)
