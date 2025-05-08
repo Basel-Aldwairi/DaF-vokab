@@ -9,7 +9,7 @@ def fromTxt(input: str) -> dict[str, list[tuple]]:
     with open(input, 'r', encoding='utf-8') as file:
         for line in file:
 
-            if '(' in line and '*' not in line and line[0] != ' ':
+            if '(' in line and '*' not in line and line[0] != ' ' and not '→' in line:
 
                 index = line.index('(')
                 thema = ''.join([line[:index - 1]])
@@ -45,7 +45,9 @@ def toTxt(output: str, dictionary: dict[str, list[set]]):
             file.write('\n\n')
 
 
-dictionary = fromTxt('input.txt')
-dictionary2 = fromTxt('input2.txt')
-dic = {**dictionary, **dictionary2}
-toTxt('output.txt', dic)
+vebs = fromTxt('verbsinput.txt')
+toTxt('verbs.txt',vebs)
+# dictionary = fromTxt('input.txt')
+# dictionary2 = fromTxt('input2.txt')
+# dic = {**dictionary, **dictionary2}
+# toTxt('output.txt', dic)
