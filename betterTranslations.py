@@ -42,12 +42,14 @@ def toTxt(output: str, dictionary: dict[str, list[set]]):
                 file.write(f'  {i:3} : {german:26} | {english}\n')
                 i += 1
                 print(i)
+                if (i - 1)% 5== 0:
+                    file.write('\n')
             file.write('\n\n')
 
 
 vebs = fromTxt('verbsinput.txt')
 toTxt('verbs.txt',vebs)
-# dictionary = fromTxt('input.txt')
-# dictionary2 = fromTxt('input2.txt')
-# dic = {**dictionary, **dictionary2}
-# toTxt('output.txt', dic)
+dictionary = fromTxt('input.txt')
+dictionary2 = fromTxt('input2.txt')
+dic = {**dictionary, **dictionary2}
+toTxt('output.txt', dic)

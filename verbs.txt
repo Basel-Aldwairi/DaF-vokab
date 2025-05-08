@@ -5,246 +5,295 @@ Verbs :
     3 : sich ärgern (über)         | to get annoyed (about)
     4 : sich aufregen (über)       | to get worked up / upset (about)
     5 : sich bedanken (bei / für)  | to thank (someone / for something)
+
     6 : sich befinden              | to be located / to be situated
     7 : sich bewerben (bei / um)   | to apply (at / for)
     8 : sich beziehen (auf)        | to refer (to)
     9 : sich entscheiden (für)     | to decide (on)
    10 : sich entschuldigen (bei / für) | to apologize (to / for)
+
    11 : sich erinnern (an)         | to remember
    12 : sich erkundigen (bei / nach) | to ask / inquire (someone / about something)
    13 : sich freuen (auf / über)   | to look forward to / be happy about
    14 : sich gewöhnen (an)         | to get used (to)
    15 : sich interessieren (für)   | to be interested (in)
+
    16 : sich konzentrieren (auf)   | to concentrate (on)
    17 : sich kümmern (um)          | to take care (of)
    18 : sich vorbereiten (auf)     | to prepare (for)
    19 : sich verlieben (in)        | to fall in love (with)
    20 : sich wundern (über)        | to be surprised / wonder (about)
+
    21 : sich beeilen               | to hurry
    22 : sich benehmen              | to behave
    23 : sich bewegen               | to move
    24 : sich duschen               | to take a shower
    25 : sich entspannen            | to relax
+
    26 : sich entschließen          | to decide, make up one’s mind
    27 : sich erholen               | to recover, rest
    28 : sich hinlegen              | to lie down
    29 : sich setzen                | to sit down
    30 : sich umdrehen              | to turn around
+
    31 : sich umziehen              | to change clothes
    32 : sich verspäten             | to be late
    33 : sich vorstellen            | to introduce oneself / to imagine
    34 : sich etwas anhören         | to listen to something
    35 : sich etwas merken          | to remember something
+
    36 : sich etwas vorstellen      | to imagine something
    37 : sich etwas wünschen        | to wish for something
    38 : sich etwas leisten         | to afford something
    39 : sich etwas kaufen          | to buy oneself something
    40 : anbieten                   | to offer
+
    41 : anfangen                   | to begin, to start
    42 : annehmen                   | to accept, to assume
    43 : ablehnen                   | to refuse, to reject
    44 : abschließen                | to complete, to conclude
    45 : anfordern                  | to request, to demand
+
    46 : ankündigen                 | to announce
    47 : anwenden                   | to apply, to use
    48 : aufgeben                   | to give up, to abandon
    49 : aufheben                   | to pick up, to lift, to abolish
    50 : ausfallen                  | to be canceled, to fail
+
    51 : ausschließen               | to exclude
    52 : beachten                   | to pay attention to, to consider
    53 : beantragen                 | to apply for, to request
    54 : bedrohen                   | to threaten
    55 : beeinflussen               | to influence
+
    56 : begründen                  | to justify, to give reasons
    57 : behandeln                  | to treat, to deal with
    58 : behaupten                  | to claim, to assert
    59 : beobachten                 | to observe, to watch
    60 : beraten                    | to advise, to counsel
+
    61 : beschließen                | to decide, to resolve
    62 : beschränken                | to limit, to restrict
    63 : beschweren (sich)          | to complain
    64 : besitzen                   | to own, to possess
    65 : bestätigen                 | to confirm
+
    66 : bestimmen                  | to determine, to define
    67 : beurteilen                 | to judge, to assess
    68 : bewerten                   | to evaluate, to assess
    69 : bewirken                   | to cause, to bring about
    70 : bewerben (sich)            | to apply
+
    71 : bieten                     | to offer
    72 : darstellen                 | to represent, to portray
    73 : durchführen                | to carry out, to conduct
    74 : ermöglichen                | to make possible, to enable
    75 : erreichen                  | to reach, to achieve
+
    76 : erwähnen                   | to mention
    77 : erweitern                  | to expand, to broaden
    78 : erzeugen                   | to produce, to generate
    79 : feststellen                | to determine, to establish
    80 : fördern                    | to promote, to support
+
    81 : gelingen                   | to succeed, to manage
    82 : herstellen                 | to manufacture, to produce
    83 : interpretieren             | to interpret
    84 : leisten                    | to achieve, to accomplish
    85 : liefern                    | to deliver, to supply
+
    86 : nachweisen                 | to prove, to demonstrate
    87 : reduzieren                 | to reduce
    88 : schätzen                   | to estimate, to value, to appreciate
    89 : übertragen                 | to transfer, to transmit
    90 : umsetzen                   | to implement, to realize
+
    91 : verabschieden              | to adopt (law), to say goodbye
    92 : verfügen                   | to have at one’s disposal
    93 : verhindern                 | to prevent
    94 : veröffentlichen            | to publish
    95 : verschieben                | to postpone
+
    96 : versorgen                  | to supply, to provide
    97 : verursachen                | to cause
    98 : verzichten                 | to do without, to renounce
    99 : warnen                     | to warn
   100 : widersprechen              | to contradict
+
   101 : zerstören                  | to destroy
   102 : abbrechen                  | to cancel, to abort
   103 : abbauen                    | to reduce, to dismantle
   104 : abstimmen                  | to vote, to coordinate
   105 : anregen                    | to stimulate, to encourage
+
   106 : antreiben                  | to drive, to propel
   107 : ausnutzen                  | to exploit, to take advantage of
   108 : ausreichen                 | to be sufficient
   109 : austauschen                | to exchange, to swap
   110 : begegnen                   | to encounter, to meet
+
   111 : begleiten                  | to accompany
   112 : begrenzen                  | to limit, to restrict
   113 : belasten                   | to burden, to strain
   114 : belegen                    | to prove, to document, to occupy (space)
   115 : bemühen (sich)             | to make an effort
+
   116 : berücksichtigen            | to take into account, to consider
   117 : berühren                   | to touch
   118 : beschäftigen               | to employ, to occupy
   119 : beschreiben                | to describe
   120 : besprechen                 | to discuss
+
   121 : bestehen                   | to pass (an exam), to exist, to insist
   122 : betragen                   | to amount to
   123 : betreffen                  | to affect, to concern
   124 : bewegen                    | to move, to influence
   125 : bevorzugen                 | to prefer
+
   126 : einfallen                  | to come to mind, to collapse
   127 : eingreifen                 | to intervene
   128 : einrichten                 | to furnish, to set up
   129 : einschränken               | to limit, to restrict
   130 : einschätzen                | to assess, to estimate
+
   131 : einschließen               | to include, to lock in
   132 : einsetzen                  | to use, to deploy, to insert
   133 : eintreten                  | to enter, to occur, to join
   134 : empfehlen                  | to recommend
   135 : entscheiden                | to decide
+
   136 : entwickeln                 | to develop
   137 : erfordern                  | to require, to demand
   138 : erkennen                   | to recognize, to realize
   139 : erschließen                | to develop, to open up, to infer
   140 : erweitern                  | to expand, to extend
+
   141 : festlegen                  | to determine, to define
   142 : fordern                    | to demand
   143 : gelten                     | to be valid, to apply
   144 : herausfinden               | to find out, to discover
   145 : herunterladen              | to download
+
   146 : hinweisen                  | to point out, to indicate
   147 : klagen                     | to complain, to sue
   148 : nachfragen                 | to inquire, to demand
   149 : nennen                     | to name, to mention
   150 : nutzen                     | to use, to benefit
+
   151 : regeln                     | to regulate, to arrange
   152 : schaffen                   | to create, to accomplish
   153 : scheitern                  | to fail
   154 : sichern                    | to secure, to ensure
   155 : steigern                   | to increase, to boost
+
   156 : streben                    | to strive, to aim for
   157 : teilnehmen                 | to participate
   158 : übernehmen                 | to take over, to assume
   159 : überprüfen                 | to check, to verify
   160 : überzeugen                 | to convince
+
   161 : umgehen                    | to handle, to deal with
   162 : unterstützen               | to support
   163 : unterscheiden              | to distinguish
   164 : unternehmen                | to undertake, to do
   165 : vergleichen                | to compare
+
   166 : verhalten (sich)           | to behave
   167 : verlängern                 | to extend
   168 : vermuten                   | to suspect, to assume
   169 : veröffentlichen            | to publish
   170 : verschärfen                | to tighten, to intensify
+
   171 : versprechen                | to promise
   172 : verteilen                  | to distribute
   173 : verzögern                  | to delay
   174 : vorschlagen                | to suggest, to propose
   175 : wählen                     | to choose, to elect
+
   176 : wachsen                    | to grow
   177 : zweifeln                   | to doubt
   178 : ablenken                   | to distract
   179 : abstürzen                  | to crash (computer, plane)
   180 : anpassen                   | to adapt, to adjust
+
   181 : anstreben                  | to strive for, to aim at
   182 : auftreten                  | to appear, to occur (problem), to perform (artist)
   183 : ausdrücken                 | to express
   184 : ausweichen                 | to avoid, to dodge
   185 : beanstanden                | to complain about, to object to
+
   186 : beauftragen                | to assign, to commission
   187 : bedauern                   | to regret
   188 : befürchten                 | to fear, to be afraid of
   189 : begegnen                   | to meet, to encounter (by chance)
   190 : begrüßen                   | to greet, to welcome
+
   191 : beinhalten                 | to include, to contain
   192 : bekämpfen                  | to fight against, to combat
   193 : belegen                    | to document, to prove, to occupy (seat, place)
   194 : benachrichtigen            | to inform, to notify
   195 : beruhigen                  | to calm, to reassure
+
   196 : beschädigen                | to damage
   197 : beschleunigen              | to accelerate, to speed up
   198 : bestärken                  | to strengthen, to encourage
   199 : bewältigen                 | to cope with, to manage
   200 : durchatmen                 | to take a deep breath
+
   201 : durchhalten                | to persevere, to hold out
   202 : einfallen                  | to occur to someone, to come to mind
   203 : einmischen (sich)          | to interfere, to get involved
   204 : einsparen                  | to save (money, resources)
   205 : einwandern                 | to immigrate
+
   206 : entdecken                  | to discover
   207 : entfernen                  | to remove
   208 : entgehen                   | to escape, to miss out on
   209 : erarbeiten                 | to work out, to develop
   210 : erforschen                 | to research, to explore
+
   211 : erlauben                   | to allow, to permit
   212 : erschrecken                | to scare, to frighten
   213 : erzeugen                   | to generate, to produce
   214 : fliehen                    | to flee, to escape
   215 : gründen                    | to found, to establish
+
   216 : hinzufügen                 | to add
   217 : ignorieren                 | to ignore
   218 : klarkommen                 | to cope, to manage
   219 : meiden                     | to avoid
   220 : nachahmen                  | to imitate
+
   221 : nachholen                  | to catch up on
   222 : nachschlagen               | to look up (in a dictionary)
   223 : opfern                     | to sacrifice
   224 : reagieren                  | to react, to respond
   225 : schildern                  | to describe, to portray
+
   226 : schweigen                  | to be silent, to keep quiet
   227 : überqueren                 | to cross (a street, border)
   228 : umfassen                   | to include, to comprise
   229 : umgehen (mit)              | to deal with, to handle
   230 : umwandeln                  | to convert, to transform
+
   231 : unterbinden                | to prevent, to stop
   232 : verarbeiten                | to process, to work through
   233 : verbergen                  | to hide, to conceal
   234 : verfolgen                  | to pursue, to follow
   235 : vermeiden                  | to avoid
+
   236 : verrichten                 | to carry out, to perform
   237 : verstoßen (gegen)          | to violate, to infringe
   238 : verurteilen                | to condemn, to sentence
   239 : verwalten                  | to manage, to administer
   240 : verweigern                 | to refuse, to deny
+
   241 : vorbeugen                  | to prevent, to take precautions
   242 : vorhersagen                | to predict, to forecast
   243 : vorschreiben               | to prescribe, to stipulate
   244 : wahrnehmen                 | to perceive, to notice
   245 : widerspiegeln              | to reflect, to mirror
+
   246 : zerbrechen                 | to break, to shatter
   247 : zusammenbrechen            | to collapse, to break down
 
